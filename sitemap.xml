@@ -4,29 +4,57 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://www.de-princesa.com/</loc>
-  <lastmod>2020-02-26T09:23:40+00:00</lastmod>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.de-princesa.com/disfraz-de-princesa.html</loc>
-  <lastmod>2020-02-26T09:23:40+00:00</lastmod>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.de-princesa.com/cuento-de-princesa.html</loc>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.de-princesa.com/zapatillas-de-princesa.html</loc>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.de-princesa.com/corona-de-princesa.html</loc>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.de-princesa.com/muneca-de-princesa.html</loc>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.de-princesa.com/pijama-de-princesa.html</loc>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.de-princesa.com/legal.html</loc>
-  <lastmod>2020-02-26T09:23:40+00:00</lastmod>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.de-princesa.com/privacy.html</loc>
-  <lastmod>2020-02-26T09:23:40+00:00</lastmod>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.de-princesa.com/cookies.html</loc>
-  <lastmod>2020-02-26T09:23:40+00:00</lastmod>
+  <lastmod>2020-02-26T18:34:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
